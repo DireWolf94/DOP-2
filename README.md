@@ -1,2 +1,2 @@
 # DOP-2
- Classification on Reconstructed Images
+Study of the ability of variational autoencoders to denoise manually corrupted images
